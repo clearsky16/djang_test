@@ -12,5 +12,5 @@ class HeroInfoAdmin(admin.ModelAdmin):
 # 应用类注册到此处
 admin.site.register(BookInfo, BookInfoAdmin)
 admin.site.register(HeroInfo, HeroInfoAdmin)
-
+# --------------------------------------------------
 
